@@ -1,4 +1,4 @@
-### Bryant Klein| App Academy Full Stack Student 👋
+### Bryant Klein| App Academy Graduate 👋
   Personal Trainer/Strength and Conditioning Specialist turned Software Developer.
 
 - :mailbox: kleinb1616@gmail.com.
